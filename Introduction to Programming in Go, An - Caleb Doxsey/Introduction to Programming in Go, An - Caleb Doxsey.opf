@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcc92f32-4c83-4c59-ad95-96f2770b0fa7</dc:identifier>
+        <dc:title>An Introduction to Programming in Go</dc:title>
+        <dc:creator opf:file-as="Doxsey, Caleb" opf:role="aut">Caleb Doxsey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Caleb Doxsey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2024-04-23T14:07:48.396982+00:00"/>
+        <meta name="calibre:title_sort" content="Introduction to Programming in Go, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Introduction to Programming in Go, An - Caleb Doxsey.jpg"/>
+    </guide>
+</package>

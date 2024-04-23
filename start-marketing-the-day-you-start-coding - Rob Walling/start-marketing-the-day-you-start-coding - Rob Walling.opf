@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71b56b70-43aa-4562-891f-79279d6ea485</dc:identifier>
+        <dc:title>start-marketing-the-day-you-start-coding</dc:title>
+        <dc:creator opf:file-as="Walling, Rob" opf:role="aut">Rob Walling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.9.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-24T22:22:20+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Rob Walling&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-02-09T01:46:44+00:00"/>
+        <meta name="calibre:title_sort" content="start-marketing-the-day-you-start-coding"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="start-marketing-the-day-you-start-coding - Rob Walling.jpg"/>
+    </guide>
+</package>
